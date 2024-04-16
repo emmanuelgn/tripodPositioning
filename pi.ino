@@ -1,3 +1,16 @@
+/*
+  Universidade Federal de Santa Catarina - UFSC
+  Centro Tecnológico - CTC
+  Departamento de Automação e Sistemas - DAS
+  Engenharia de Controle e Automação - ECA
+  Projeto Integrador - DAS5104
+  Turma 0722A - 2024.1
+  Alunos:
+    Emmanuel Gonçalves Notargiacomo
+    Jean Guilherme Neiverth
+    Juan Flôr de Amorim
+*/
+
 const int dirPin = 5; // D1
 const int stepPin = 16; // D0
 const int enablePin = 15; // D8
